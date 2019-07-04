@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Frankie Sanzica&#39;s Blog</title>
+    <link>https://frankiesanzica.com/blog/post/</link>
+    <description>Recent content in Posts on Frankie Sanzica&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://frankiesanzica.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meta: How I Made This Site</title>
+      <link>https://frankiesanzica.com/blog/post/meta/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://frankiesanzica.com/blog/post/meta/</guid>
+      <description> Registrar  Register frankiesanzica.com domain: https://domains.google.com ($12 /yr + FREE WHOIS privacy)  CDN  Point DNS to CloudFlare nameservers: https://cloudflare.com (Free CDN)  Email  Add Zoho MX/TXT records to CloudFlare: https://www.zoho.com/mail/ (Free Email)  Hosting (GitHub)  Setup frankiesanzica.github.io repo using GitHub Pages: https://pages.github.com/ (Free static hositing) Add CNAME to GitHub for custom domain: https://github.com/FrankieSanzica/frankiesanzica.github.io/blob/master/CNAME  </description>
+    </item>
+    
+  </channel>
+</rss>

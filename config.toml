@@ -1,0 +1,62 @@
+baseurl = "https://frankiesanzica.com/blog"
+languageCode = "en-us"
+title = "Frankie Sanzica's Blog"
+theme = "hugo-type-theme"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "frankiesanzica-com"
+# Add your tracking code to enable Google Analytics
+googleAnalytics = "UA-39098954-2"
+# Posts per page
+paginate = 10
+# Comment the themesDir option if you use this theme in production
+# themesDir = "../.."
+
+[params]
+	author = "Frankie Sanzica"
+	description = ""
+	# The keywords will be added as a meta tag. Delimit them with a comma.
+	keywords = ""
+	# Either show custom avatar on the top
+	# left by adding the filename in below
+	avatar = "img/avatar.png"
+	# or use Gravatar by adding your email address to generate a unique avatar
+	gravatar = "maabsta@gmail.com"
+
+	headerText = ""
+	# To add a header background to the main site, save your image under static/img/yourimage.png
+	# and assign "yourimage.png" to the headerImage variable. If no image path is provided, a
+	# orange background will be shown instead.
+	headerImage = ""
+	copyright = "Frankie Sanzica<br>Powered by [Hugo](https://gohugo.io/) with the [Type Theme](https://github.com/digitalcraftsman/hugo-type-theme)"
+
+	# Define which types of content shall be displayed on the homepage. By default Hugo uses
+	# types with the most content files.
+	# mainSections = []
+
+	[params.social]
+		# Insert your accout name and the icon will be shown in the right menu
+		rss = true
+		homepage = true
+		email = "frankie@frankiesanzica.com"
+		behance = ""
+		bitbucket  = ""
+		dribbble = ""
+		facebook = ""
+		flickr = ""
+		github = "frankiesanzica"
+		googleplus = ""
+		instagram = ""
+		linkedin = "frankiesanzica"
+		pinterest = ""
+		reddit = ""
+		soundcloud = ""
+		stackexchange = ""
+		steam = ""
+		tumblr = ""
+		twitter = ""
+		wordpress = ""
+		youtube = ""
+		gitlab = ""
+		trello = ""
+		meetup = ""
+		speackerdeck = ""
