@@ -1,4 +1,4 @@
-baseurl = "https://frankiesanzica.com/blog"
+baseurl = "https://blog.frankiesanzica.com"
 languageCode = "en-us"
 title = "Frankie Sanzica's Blog"
 theme = "hugo-type-theme"
