@@ -1,6 +1,6 @@
 ---
 author: "Frankie Sanzica"
-title: "Meta: DNS"
+title: "Meta Part II: DNS"
 date: 2019-07-20
 description: "DNS"
 draft: false
