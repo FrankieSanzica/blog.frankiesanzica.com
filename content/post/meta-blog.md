@@ -8,6 +8,8 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
+# Hugo
+
 To create my blog, I went with the open-source static site generator, [Hugo](https://gohugo.io/).  It is very easy to use and is written in [Go](https://golang.org/).
 
 I chose a simple, but full featured [theme](https://themes.gohugo.io/), [Type](https://themes.gohugo.io/type/) to get started.
@@ -48,9 +50,11 @@ http://localhost:1313
 
 ## Hosting
 
-* Netlify: https://www.netlify.com/
-* https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
-* Point *blog.frankiesanzica.com* to Netlify:
+To host my blog, I went with [Netlify](https://www.netlify.com/).  It is a great Platform-as-a-service that provides hosting, CDN, SSL, & CI/CD for a [Jamstack](https://jamstack.org).  
+
+Hugo also provides a great tutorial on [hosting on Netifly](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+
+### Point *blog.frankiesanzica.com* to Netlify:
 
 ```
 blog CNAME EXAMPLE-SITE-123456.netlify.com.
