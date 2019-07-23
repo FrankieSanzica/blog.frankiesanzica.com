@@ -14,31 +14,31 @@ I chose a simple, but full featured [theme](https://themes.gohugo.io/), [Type](h
 
 Here were my quickstart steps assuming you are on a Mac:
 
-1. Install:
+### Install:
 
 ```
 brew install hugo
 ```
 
-2. Start new site:
+### Start new site:
 
 ```
 hugo new site blog.frankiesanzica.com
 ```
 
-3. Add theme:
+### Add theme:
 
 ```
 git submodule add https://github.com/digitalcraftsman/hugo-type-theme themes/hugo-type-theme
 ```
 
-4. Add first post:
+### Add first post:
 
 ```
 hugo new posts/my-first-post.md
 ```
 
-5. View on local test server:
+### View on local test server:
 
 ```
 hugo server -D
