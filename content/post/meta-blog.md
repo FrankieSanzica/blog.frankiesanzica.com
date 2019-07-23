@@ -8,20 +8,43 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
-* Hugo: https://gohugo.io/
-* Theme: https://themes.gohugo.io/type/
+To create my blog, I went with the open-source static site generator, [Hugo](https://gohugo.io/).  It is very easy to use and is written in [Go](https://golang.org/).
 
-Quickstart:
+I chose a simple, but full featured [theme](https://themes.gohugo.io/), [Type](https://themes.gohugo.io/type/) to get started.
+
+Here were my quickstart steps assuming you are on a Mac:
+
+1. Install:
+
+```
+brew install hugo
+```
+
+2. Start new site:
 
 ```
 hugo new site blog.frankiesanzica.com
-cd blog.frankiesanzica.com
-git init
-git submodule add https://github.com/digitalcraftsman/hugo-type-theme themes/hugo-type-theme
-hugo new posts/my-first-post.md
-hugo server -D
-http://localhost:1313
 ```
+
+3. Add theme:
+
+```
+git submodule add https://github.com/digitalcraftsman/hugo-type-theme themes/hugo-type-theme
+```
+
+4. Add first post:
+
+```
+hugo new posts/my-first-post.md
+```
+
+5. View on local test server:
+
+```
+hugo server -D
+```
+
+http://localhost:1313
 
 ## Hosting
 
