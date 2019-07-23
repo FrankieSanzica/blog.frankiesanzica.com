@@ -16,13 +16,13 @@ Here were my quickstart steps assuming you are on a Mac:
 
 1. Install:
 
-```bash
+```
 brew install hugo
 ```
 
 2. Start new site:
 
-```bash
+```
 hugo new site blog.frankiesanzica.com
 ```
 
