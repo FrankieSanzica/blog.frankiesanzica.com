@@ -14,7 +14,7 @@ To create my blog, I went with the open-source static site generator, [Hugo](htt
 
 I chose a simple, but full featured [theme](https://themes.gohugo.io/), [Type](https://themes.gohugo.io/type/) to get started.
 
-Here were my (Quick Start)(https://gohugo.io/getting-started/quick-start/) steps assuming you are on a Mac:
+Here were my [Quick Start](https://gohugo.io/getting-started/quick-start/) steps assuming you are on a Mac:
 
 ### Install
 
