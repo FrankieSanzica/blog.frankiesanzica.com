@@ -14,15 +14,15 @@ To create my blog, I went with the open-source static site generator, [Hugo](htt
 
 I chose a simple, but full featured [theme](https://themes.gohugo.io/), [Type](https://themes.gohugo.io/type/) to get started.
 
-Here were my quickstart steps assuming you are on a Mac:
+Here were my (Quick Start)(https://gohugo.io/getting-started/quick-start/) steps assuming you are on a Mac:
 
-### Install:
+### Install
 
 ```
 brew install hugo
 ```
 
-### Start new site:
+### Start new site
 
 ```
 hugo new site blog.frankiesanzica.com
@@ -52,7 +52,7 @@ http://localhost:1313
 
 To host my blog, I went with [Netlify](https://www.netlify.com/).  It is a great Platform-as-a-service that provides hosting, CDN, SSL, & CI/CD for a [Jamstack](https://jamstack.org).  
 
-Hugo also provides a great tutorial on [hosting on Netifly](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+Hugo also provides a great tutorial on [hosting on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 
 ### Point *blog.frankiesanzica.com* to Netlify:
 
