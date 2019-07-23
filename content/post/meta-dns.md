@@ -1,7 +1,7 @@
 ---
 author: "Frankie Sanzica"
 title: "Meta: DNS"
-date: 2019-07-22
+date: 2019-07-20
 description: "DNS"
 draft: false
 tags: ["meta"]

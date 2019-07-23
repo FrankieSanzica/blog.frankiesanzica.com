@@ -1,7 +1,7 @@
 ---
 author: "Frankie Sanzica"
 title: "Meta: Homepage"
-date: 2019-07-22
+date: 2019-07-21
 description: "How I created my personal homepage.  Using Bootrap.  Using simple HTML & CSS.  Hosted for FREE on GitHub Pages."
 draft: false
 tags: ["meta"]
