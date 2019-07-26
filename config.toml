@@ -1,6 +1,6 @@
 baseurl = "https://blog.frankiesanzica.com/"
 languageCode = "en-us"
-title = "Blog"
+title = "Automate; Abstract"
 theme = "hugo-type-theme"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "frankiesanzica-com"
