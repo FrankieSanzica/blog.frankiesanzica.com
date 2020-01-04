@@ -8,17 +8,21 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
-**frankiesanzica.com**
+# Websites
+
+## frankiesanzica.com
 
 * GitHub Pages - Hosting/Version Control
 * Bootstrap - CSS Framework
 * Cloudflare - DNS/CDN/SSL
 * Zoho - Email
 
-**blog.frankiesanzica.com**
+## blog.frankiesanzica.com
 
 * Hugo - Static Site Generator
 * Netlify - Hosting/SSL/CDN/CI-CD
+
+# Opensource Tools
 
 1. Registrar
   * Google Domains
@@ -33,7 +37,3 @@ series:  ["meta"]
 5. Hosting
   * GitHub Pages
   * Netlify
-
-# Jamstack
-
-
