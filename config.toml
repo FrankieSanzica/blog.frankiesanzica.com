@@ -42,7 +42,7 @@ paginate = 10
 
 	[params.social]
 		# Insert your accout name and the icon will be shown in the right menu
-		rss = true
+		rss = false
 		homepage = true
 		email = "frankie@frankiesanzica.com"
 		behance = ""
