@@ -18,12 +18,24 @@ series:  ["detroit"]
 
 # J Dilla
 
+![J Dilla](/jdillajpg)
+
 # Royce da 5'9"
+
+![Royce da 5'9"](/royceda59.jpg)
 
 # Black Milk
 
+![Black Milk](/blackmilk.jpg)
+
 # Elzhi
+
+![Elzhi](/elzhi.jpg)
 
 # Slum Village
 
+![Slum Village](/slumvillage.jpg)
+
 # Apollo Brown
+
+![Apollo Brown](/apollobrown.jpg)
