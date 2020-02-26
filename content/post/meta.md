@@ -1,12 +1,14 @@
 ---
 author: "Frankie Sanzica"
-title: "Meta"
+title: "Meta: How I built this website"
 date: 2020-02-26
-description: "How I built this website."
+description: "How I build & host this website for FREE"
 draft: false
 tags: ["meta"]
 series:  ["meta"]
 ---
+
+*Prequisites*:
 
 * **Registrar**: Register *frankiesanzica.com* domain at [Google Domains](https://domains.google.com) ($12 /yr + **FREE** WHOIS privacy)
 * **DNS/CDN**: Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
@@ -31,11 +33,13 @@ series:  ["meta"]
 * MKDocs - Static Site Generator
 * Netlify - Hosting/SSL/CDN/CI-CD"]
 
-# Bootstrap
+# 1. FrankieSanzica.com 
+
+## Bootstrap
 
 * Bootstrap: https://getbootstrap.com/
 
-## GitHub Pages
+##  GitHub Pages
 
 * Setup *frankiesanzica.github.io* repo using [GitHub Pages](https://pages.github.com/) for **FREE** static hosting
 * Add CNAME to GitHub for custom domain: https://github.com/FrankieSanzica/frankiesanzica.github.io/blob/master/CNAME
@@ -48,7 +52,9 @@ series:  ["meta"]
 185.199.111.153
 ```
 
-# Hugo
+# 2. Blog.FrankieSanzica.com
+
+## Hugo
 
 To create my blog, I went with the open-source static site generator, [Hugo](https://gohugo.io/).  
 It is very easy to use and is written in [Go](https://golang.org/).
@@ -100,3 +106,7 @@ Add the following CNAME record at [CloudFlare](http://cloudflare.com/):
 ```
 blog CNAME EXAMPLE-SITE-123456.netlify.com.
 ```
+
+# 3. Docs.FrankieSanzica.com 
+
+## MkDocs
