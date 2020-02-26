@@ -2,7 +2,7 @@
 author: "Frankie Sanzica"
 title: "Meta"
 date: 2020-02-26
-description: "meta"
+description: "How I built this website."
 draft: false
 tags: ["meta"]
 series:  ["meta"]
@@ -36,15 +36,12 @@ series:  ["meta"]
 ## blog.frankiesanzica.com
 
 * Hugo - Static Site Generator
-* Netlify - Hosting/SSL/CDN/CI-CD---
-author: "Frankie Sanzica"
-title: "Meta Part III: Homepage"
-date: 2019-07-21
-description: "How I created my personal homepage.  Using Bootrap.  Using simple HTML & CSS.  Hosted for FREE on GitHub Pages."
-draft: false
-tags: ["meta"]
-series:  ["meta"]
----
+* Netlify - Hosting/SSL/CDN/CI-CD"]
+
+## docs.frankiesanzica.com
+
+* MKDocs - Static Site Generator
+* Netlify - Hosting/SSL/CDN/CI-CD"]
 
 # Bootstrap
 
