@@ -16,15 +16,15 @@ series:  ["meta"]
 
 # Websites
 
-1. frankiesanzica.com
+1. **frankiesanzica.com**
     * GitHub Pages - Hosting/Version Control
     * Bootstrap - CSS Framework
     * Cloudflare - DNS/CDN/SSL
     * Zoho - Email
-2. blog.frankiesanzica.com
+2. **blog.frankiesanzica.com**
     * Hugo - Static Site Generator
     * Netlify - Hosting/SSL/CDN/CI-CD"]
-3. docs.frankiesanzica.com
+3. **docs.frankiesanzica.com**
     * MKDocs - Static Site Generator
     * Netlify - Hosting/SSL/CDN/CI-CD"]
 
