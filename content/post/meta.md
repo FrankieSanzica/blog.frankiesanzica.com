@@ -8,13 +8,11 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
-1. Registrar
+* Registrar
     * Register *frankiesanzica.com* domain at [Google Domains](https://domains.google.com) ($12 /yr + **FREE** WHOIS privacy)
-
-2. DNS/CDN
-    * Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
-
-3. Email
+* DNS/CDN
+   * Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
+* Email
     * Add Zoho MX/TXT records to [Zoho](https://www.zoho.com/mail/) (**FREE** Email)
 
 # Websites
