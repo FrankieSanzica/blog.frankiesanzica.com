@@ -1,9 +1,9 @@
 ---
 author: "Frankie Sanzica"
 title: "Meta"
-date: 2019-06-29
+date: 2020-02-26
 description: "meta"
-draft: true
+draft: false
 tags: ["meta"]
 series:  ["meta"]
 ---
