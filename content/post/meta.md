@@ -8,7 +8,7 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
-*Prequisites*:
+*Prerequisites*:
 
 * **Registrar**: Register *frankiesanzica.com* domain at [Google Domains](https://domains.google.com) ($12 /yr + **FREE** WHOIS privacy)
 * **DNS/CDN**: Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
@@ -16,22 +16,17 @@ series:  ["meta"]
 
 # Websites
 
-## frankiesanzica.com
-
-* GitHub Pages - Hosting/Version Control
-* Bootstrap - CSS Framework
-* Cloudflare - DNS/CDN/SSL
-* Zoho - Email
-
-## blog.frankiesanzica.com
-
-* Hugo - Static Site Generator
-* Netlify - Hosting/SSL/CDN/CI-CD"]
-
-## docs.frankiesanzica.com
-
-* MKDocs - Static Site Generator
-* Netlify - Hosting/SSL/CDN/CI-CD"]
+1. frankiesanzica.com
+    * GitHub Pages - Hosting/Version Control
+    * Bootstrap - CSS Framework
+    * Cloudflare - DNS/CDN/SSL
+    * Zoho - Email
+2. blog.frankiesanzica.com
+    * Hugo - Static Site Generator
+    * Netlify - Hosting/SSL/CDN/CI-CD"]
+3. docs.frankiesanzica.com
+    * MKDocs - Static Site Generator
+    * Netlify - Hosting/SSL/CDN/CI-CD"]
 
 # 1. FrankieSanzica.com 
 
