@@ -8,21 +8,14 @@ tags: ["meta"]
 series:  ["meta"]
 ---
 
-# Opensource
-
 1. Registrar
-  * Google Domains
+  * Register *frankiesanzica.com* domain at [Google Domains](https://domains.google.com) ($12 /yr + **FREE** WHOIS privacy)
+
 2. DNS/CDN
-  * Cloudflare
-  * Zoho
-3. Personal Site
-  * HTML
-  * Bootstrap
-4. Blog 
-  * Hugo  
-5. Hosting
-  * GitHub Pages
-  * Netlify
+  * Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
+
+3. Email
+  * Add Zoho MX/TXT records to [Zoho](https://www.zoho.com/mail/) (**FREE** Email)
 
 # Websites
 
@@ -47,7 +40,7 @@ series:  ["meta"]
 
 * Bootstrap: https://getbootstrap.com/
 
-## Hosting
+## GitHub Pages
 
 * Setup *frankiesanzica.github.io* repo using [GitHub Pages](https://pages.github.com/) for **FREE** static hosting
 * Add CNAME to GitHub for custom domain: https://github.com/FrankieSanzica/frankiesanzica.github.io/blob/master/CNAME
@@ -99,7 +92,7 @@ hugo server -D
 
 http://localhost:1313
 
-## Hosting
+## Netlify
 
 To host my blog, I went with [Netlify](https://www.netlify.com/).  It is a great Platform-as-a-service that provides hosting, custom domains, CDN, HTTPs, & CD for a [Jamstack](https://jamstack.org).  All [**FREE**](https://www.netlify.com/pricing/) for personal use.
 
@@ -112,15 +105,3 @@ Add the following CNAME record at [CloudFlare](http://cloudflare.com/):
 ```
 blog CNAME EXAMPLE-SITE-123456.netlify.com.
 ```
-
-## 1. Registrar
-
-*  Register *frankiesanzica.com* domain at [Google Domains](https://domains.google.com) ($12 /yr + **FREE** WHOIS privacy)
-
-## 2. DNS/CDN
-
-* Point DNS to [CloudFlare](https://cloudflare.com) nameservers (**FREE** CDN/HTTPS)
-
-## 3. Email
-
-* Add Zoho MX/TXT records to [Zoho](https://www.zoho.com/mail/) (**FREE** Email)
