@@ -10,7 +10,7 @@ series:  ["detroit"]
 
 # Eminem
 
-![Eminem](/eminem.jpg =100x)
+![Eminem](/eminem.jpg)
 
 # Big Sean
 
