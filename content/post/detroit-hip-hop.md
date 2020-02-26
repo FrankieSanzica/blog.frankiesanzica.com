@@ -18,7 +18,7 @@ series:  ["detroit"]
 
 # J Dilla
 
-![J Dilla](/jdillajpg)
+![J Dilla](/jdilla.jpg)
 
 # Royce da 5'9"
 
