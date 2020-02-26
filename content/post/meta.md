@@ -1,11 +1,11 @@
 ---
 author: "Frankie Sanzica"
-title: "title"
+title: "Meta"
 date: 2019-06-29
-description: "description"
+description: "meta"
 draft: true
-tags: ["tag"]
-series:  ["series"]
+tags: ["meta"]
+series:  ["meta"]
 ---
 
 # Opensource
