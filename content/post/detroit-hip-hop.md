@@ -3,7 +3,7 @@ author: "Frankie Sanzica"
 title: "Detroit: Hip Hop"
 date: 2020-02-26
 description: "Detroit Hip Hop"
-draft: false
+draft: true
 tags: ["detroit","hip hop"]
 series:  ["detroit"]
 ---

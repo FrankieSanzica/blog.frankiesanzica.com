@@ -25,6 +25,11 @@ series:  ["detroit"]
 
 * [Curbed Detroit](https://detroit.curbed.com/)
 
+# History
+
+* [Detroit Historical Society](https://detroithistorical.org/)
+
 # Best of Lists
 
 * [Metro Times: Best Of](https://www.metrotimes.com/detroit/our-readers-help-us-investigate-2019s-best-of-detroit/BestOf?oid=21494750)
+* [MLive: Michigan's Best](https://www.mlive.com/michigansbest/)
