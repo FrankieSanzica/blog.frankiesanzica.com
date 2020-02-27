@@ -1,13 +1,13 @@
 ---
 author: "Frankie Sanzica"
-title: "Backup Everything in the Cloud"
+title: "Backup Everything to the Cloud"
 date: 2020-02-26
-description: "Best FREE cloud services."
+description: "Best FREE cloud backup services."
 draft: false
 tags: ["backups"]
 series:  ["backups"]
 ---
-# Backups
+# General
 * [Dropbox](https://www.dropbox.com/)
 * [Google Drive](https://www.google.com/drive/)
 
