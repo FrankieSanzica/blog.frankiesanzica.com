@@ -7,31 +7,28 @@ draft: false
 tags: ["backups"]
 series:  ["backups"]
 ---
+# Backups
+* [Dropbox](https://www.dropbox.com/)
+* [Google Drive](https://www.google.com/drive/)
 
-Backups:
-- [Dropbox]( https://www.dropbox.com/)
-- [Google Drive](https://www.google.com/drive/)
+# Photos
+* [Google Photos](https://photos.google.com/)
 
-Photos:
-- [Google Photos](https://photos.google.com/)
+# Music
+* [Google Play Music](https://play.google.com/music/listen)
+* Spotify
 
-Music:
-- [Google Play Music](https://play.google.com/music/listen)
-- Spotify
+# Books
+* [Google Play Books](https://play.google.com/books)
 
-Books:
-- [Google Play Books](https://play.google.com/books)
+# Notes
+* [Google Keep](https://keep.google.com)
 
-Notes:
-- [Google Keep](https://keep.google.com)
+# Articles
+* Pocket
 
-Articles:
-
-- Pocket
-
-Movies:
-
-- Netflix
-- Hulu
-- Disney+
-- Amazon Video
+# Movies
+* Netflix
+* Hulu
+* Disney+
+* Amazon Video
