@@ -28,6 +28,11 @@ series:  ["detroit"]
 # History
 
 * [Detroit Historical Society](https://detroithistorical.org/)
+* [Historic Detroit](https://historicdetroit.org/)
+
+# Shop
+
+* [Pure Detroit](https://puredetroit.com/)
 
 # Best of Lists
 
