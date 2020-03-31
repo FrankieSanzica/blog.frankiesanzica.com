@@ -1,8 +1,8 @@
 ---
 author: "Frankie Sanzica"
-title: "Detroit Food Delivery"
+title: "Detroit: Food Delivery & Carry-Out"
 date: 2020-03-30
-description: "Detroit Food Delivery"
+description: "Detroit Food Delivery & Carry-Out"
 draft: false
 tags: ["detroit"]
 series:  ["detroit"]
