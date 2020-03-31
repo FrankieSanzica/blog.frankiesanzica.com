@@ -3,7 +3,7 @@ author: "Frankie Sanzica"
 title: "Detroit Food Delivery"
 date: 2019-03-30
 description: "Detroit Food Delivery"
-draft: tfalse
+draft: false
 tags: ["detroit"]
 series:  ["detroit"]
 ---
