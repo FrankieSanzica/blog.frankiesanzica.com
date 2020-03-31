@@ -16,7 +16,6 @@ series:  ["backups"]
 
 # Music
 * [Google Play Music](https://play.google.com/music/listen)
-* Spotify
 
 # Books
 * [Google Play Books](https://play.google.com/books)
@@ -25,10 +24,4 @@ series:  ["backups"]
 * [Google Keep](https://keep.google.com)
 
 # Articles
-* Pocket
-
-# Movies
-* Netflix
-* Hulu
-* Disney+
-* Amazon Video
+* [Pocket](https://getpocket.com/)
