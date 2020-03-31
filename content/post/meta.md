@@ -40,7 +40,7 @@ series:  ["meta"]
 * Add CNAME to GitHub for custom domain: https://github.com/FrankieSanzica/frankiesanzica.github.io/blob/master/CNAME
 * Point *frankiesanzica.com* to GitHub IPs:
 
-```bash
+```
 185.199.108.153
 185.199.109.153
 185.199.110.153
