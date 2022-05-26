@@ -1,23 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frankie Sanzica&#39;s Blog</title>
-    <link>https://frankiesanzica.com/blog/</link>
-    <description>Recent content on Frankie Sanzica&#39;s Blog</description>
+    <title>Technology. Detroit.</title>
+    <link>https://blog.frankiesanzica.com/</link>
+    <description>Recent content on Technology. Detroit.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://frankiesanzica.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.frankiesanzica.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology Eponymous Laws</title>
+      <link>https://blog.frankiesanzica.com/post/eponymous-laws/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/eponymous-laws/</guid>
+      <description>Eponymous laws are bits of joking wisdom named after someone. Here are my favorites related to technology:
+ Amara&amp;rsquo;s law: &amp;ldquo;We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.&amp;rdquo; Atwood&amp;rsquo;s law: Any software that can be written in JavaScript will eventually be written in JavaScript. Brooks&amp;rsquo;s law: &amp;ldquo;Adding manpower to a late software project makes it later.&amp;rdquo; Conway&amp;rsquo;s law: Any piece of software reflects the organizational structure that produced it.</description>
+    </item>
     
     <item>
-      <title>Meta: How I Made This Site</title>
-      <link>https://frankiesanzica.com/blog/post/meta/</link>
+      <title>Detroit: Food Delivery &amp; Carry-Out</title>
+      <link>https://blog.frankiesanzica.com/post/detroit-delivery/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/detroit-delivery/</guid>
+      <description>With the Coronavirus in full affect, many great Detroit restaurants need support from the community to stay open. Here are some websites to stay in the know about which restaurants offer delivery and/or carry-out.
+  https://detroitfoodupdates.com/   The biggest of the bunch. Site has some annoying pop-ups but the most listings.
+  https://letsdetroit.com/favorite-lists-by/support-local-restaurants/   A few handpicked restaurants from the Let&amp;rsquo;s Detroit team.
+  https://www.</description>
+    </item>
+    
+    <item>
+      <title>Backup Everything to the Cloud</title>
+      <link>https://blog.frankiesanzica.com/post/clouds/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/clouds/</guid>
+      <description>General  Dropbox Google Drive  Photos  Google Photos  Music  Google Play Music  Books  Google Play Books  Notes  Google Keep  Articles  Pocket  </description>
+    </item>
+    
+    <item>
+      <title>Detroit: Best Websites</title>
+      <link>https://blog.frankiesanzica.com/post/detroit-websites/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/detroit-websites/</guid>
+      <description> These are the best websites to keep you in the know about Detroit!
+ General  Visit Detroit Thrillest Detroit Hour Detroit /r/Detroit  Food  Eater Detroit  Homes  Curbed Detroit  History  Detroit Historical Society Historic Detroit  Shop  Pure Detroit  Best of Lists  Metro Times: Best Of MLive: Michigan&amp;rsquo;s Best  </description>
+    </item>
+    
+    <item>
+      <title>Detroit: Hip Hop</title>
+      <link>https://blog.frankiesanzica.com/post/detroit-hip-hop/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/detroit-hip-hop/</guid>
+      <description>Eminem Big Sean J Dilla Royce da 5&#39;9&amp;quot; Black Milk Elzhi Slum Village Apollo Brown </description>
+    </item>
+    
+    <item>
+      <title>Meta: How I built this website</title>
+      <link>https://blog.frankiesanzica.com/post/meta/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/post/meta/</guid>
+      <description>Prerequisites:
+ Registrar: Register frankiesanzica.com domain at Google Domains ($12 /yr + FREE WHOIS privacy) DNS/CDN: Point DNS to CloudFlare nameservers (FREE CDN/HTTPS) Email: Add Zoho MX/TXT records to Zoho (FREE Email)  Websites  frankiesanzica.com  GitHub Pages - Hosting/Version Control Bootstrap - CSS Framework Cloudflare - DNS/CDN/SSL Zoho - Email   blog.frankiesanzica.com  Hugo - Static Site Generator Netlify - Hosting/SSL/CDN/CI-CD&amp;quot;]   docs.frankiesanzica.com  MKDocs - Static Site Generator Netlify - Hosting/SSL/CDN/CI-CD&amp;quot;]    1.</description>
+    </item>
+    
+    <item>
+      <title>title</title>
+      <link>https://blog.frankiesanzica.com/post/template/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://frankiesanzica.com/blog/post/meta/</guid>
-      <description> Registrar  Register frankiesanzica.com domain: https://domains.google.com ($12 /yr + FREE WHOIS privacy)  CDN  Point DNS to CloudFlare nameservers: https://cloudflare.com (Free CDN)  Email  Add Zoho MX/TXT records to CloudFlare: https://www.zoho.com/mail/ (Free Email)  Hosting (GitHub)  Setup frankiesanzica.github.io repo using GitHub Pages: https://pages.github.com/ (Free static hositing) Add CNAME to GitHub for custom domain: https://github.com/FrankieSanzica/frankiesanzica.github.io/blob/master/CNAME  </description>
+      <guid>https://blog.frankiesanzica.com/post/template/</guid>
+      <description></description>
     </item>
     
   </channel>

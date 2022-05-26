@@ -1,31 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Frankie Sanzica&#39;s Blog</title>
-    <link>https://frankiesanzica.com/blog/tags/</link>
-    <description>Recent content in Tags on Frankie Sanzica&#39;s Blog</description>
+    <title>Tags on Technology. Detroit.</title>
+    <link>https://blog.frankiesanzica.com/tags/</link>
+    <description>Recent content in Tags on Technology. Detroit.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://frankiesanzica.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.frankiesanzica.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>technology</title>
+      <link>https://blog.frankiesanzica.com/tags/technology/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/tags/technology/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>how-to</title>
-      <link>https://frankiesanzica.com/blog/tags/how-to/</link>
+      <title>detroit</title>
+      <link>https://blog.frankiesanzica.com/tags/detroit/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/tags/detroit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backups</title>
+      <link>https://blog.frankiesanzica.com/tags/backups/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/tags/backups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hip hop</title>
+      <link>https://blog.frankiesanzica.com/tags/hip-hop/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/tags/hip-hop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://blog.frankiesanzica.com/tags/meta/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag</title>
+      <link>https://blog.frankiesanzica.com/tags/tag/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://frankiesanzica.com/blog/tags/how-to/</guid>
+      <guid>https://blog.frankiesanzica.com/tags/tag/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://frankiesanzica.com/blog/tags/index/</link>
+      <link>https://blog.frankiesanzica.com/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://frankiesanzica.com/blog/tags/index/</guid>
+      <guid>https://blog.frankiesanzica.com/tags/index/</guid>
       <description></description>
     </item>
     

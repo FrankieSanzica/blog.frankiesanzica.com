@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Technology. Detroit.</title>
+    <link>https://blog.frankiesanzica.com/series/</link>
+    <description>Recent content in Series on Technology. Detroit.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.frankiesanzica.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>technology</title>
+      <link>https://blog.frankiesanzica.com/series/technology/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/series/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detroit</title>
+      <link>https://blog.frankiesanzica.com/series/detroit/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/series/detroit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backups</title>
+      <link>https://blog.frankiesanzica.com/series/backups/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/series/backups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://blog.frankiesanzica.com/series/meta/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/series/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>series</title>
+      <link>https://blog.frankiesanzica.com/series/series/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.frankiesanzica.com/series/series/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

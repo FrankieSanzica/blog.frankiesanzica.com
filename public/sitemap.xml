@@ -1,43 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://frankiesanzica.com/blog/</loc>
+    <loc>https://blog.frankiesanzica.com/post/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/technology/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/technology/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/eponymous-laws/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/detroit/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/detroit/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/detroit-delivery/</loc>
+    <lastmod>2020-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/clouds/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/backups/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/backups/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/detroit-websites/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/detroit-hip-hop/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/hip-hop/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/meta/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/meta/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/meta/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/series/series/</loc>
     <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/post/meta/</loc>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/tag/</loc>
     <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/post/</loc>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/post/template/</loc>
     <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/categories/</loc>
+  </url><url>
+    <loc>https://blog.frankiesanzica.com/tags/index/</loc>
   </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/tags/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/tags/how-to/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://frankiesanzica.com/blog/tags/index/</loc>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
